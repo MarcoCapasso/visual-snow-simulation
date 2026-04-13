@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3d03c246cc80615469bc1c4e9b2fb876
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - matFotofobia: {fileID: 2100000, guid: d3ecb797b0accec45993e287d24da4af, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
