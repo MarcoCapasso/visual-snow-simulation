@@ -164,7 +164,7 @@ Implementa la simulazione dei disturbi tramite:
   Calcolo dinamico dello stress visivo tramite raycast e aggiornamento shader
 
 * **Palinopsia**
-  Un blend di frame collegati temporalmente tra di loro usando i parametri storici della image feature della render pipeline
+  Un blend di frame collegati temporalmente tra di loro usando i parametri della image feature della render pipeline
 
 * **Neve Visiva**
   Applicazione di rumore tramite post-processing
